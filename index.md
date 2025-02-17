@@ -13,3 +13,5 @@ Lets insert some more headers
 #### 4TH HEADER
 
 ##### 5TH HEADER
+
+![Link an image.](/learn/azure-devops/shared/media/mara.png)
