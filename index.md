@@ -22,3 +22,24 @@ lets insert a code:
 ````
 bash
 ls -a
+````
+### Now Lets Add a List
+
+__Ordered List__
+1. First
+2. Second
+3. Third
+__Unordered List__
+- First
+- Second
+- Third
+
+  
+- [*] Header
+- [*] Image
+- [*] Code
+- [] Lists
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
